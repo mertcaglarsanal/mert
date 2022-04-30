@@ -12,6 +12,9 @@ public class dneem1q23 {
         sayı += onbasamak;
             System.out.println(sayı);
             System.out.println(toplam);
+          //sasa
+            System.out.println("deneme1232131");
+
         }
     }
 }
